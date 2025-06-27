@@ -42,11 +42,20 @@ This is a simple **CRUD (Create, Read, Update, Delete)** application built using
 
 1. Clone the repository:
    https://github.com/priyanshu-234/SpringbootCrudOperation
+   
+   ## 📽️ Project Demo
+
+To watch a quick demo of this project, click the link below:
+
+🔗 [Watch Video on Google Drive](https://drive.google.com/file/d/1ECQtVeY58P-rcVoJsWuuLcwMTxti5SLs/view?usp=drive_link)
+
+-->
+
 
    
-2. Import the project in **Eclipse** as a **Maven Project**
+3. Import the project in **Eclipse** as a **Maven Project**
 
-3. Configure the database in `application.properties`:
+4. Configure the database in `application.properties`:
 ```properties
 spring.datasource.url=jdbc:mysql://localhost:3306/your_db_name
 spring.datasource.username=root
@@ -80,11 +89,4 @@ src/
 └── application.properties
 
 
-## 📽️ Project Demo
-
-To watch a quick demo of this project, click the link below:
-
-🔗 [Watch Video on Google Drive](https://drive.google.com/file/d/1ECQtVeY58P-rcVoJsWuuLcwMTxti5SLs/view?usp=drive_link)
-
--->
 
