@@ -79,14 +79,12 @@ src/
 ├── exception/  (optional)
 └── application.properties
 
-Project Demo Video
 
-A short video demo will be available soon showing how this Spring Boot CRUD application works from start to finish.
+## 📽️ Project Demo
 
-🔜 *Video link will be added here after uploading.*
+To watch a quick demo of this project, click the link below:
 
-<!--
-📺 Watch Demo:
-🔗 https://drive.google.com/file/d/1ECQtVeY58P-rcVoJsWuuLcwMTxti5SLs/view?usp=drive_link
+🔗 [Watch Video on Google Drive](https://drive.google.com/file/d/1ECQtVeY58P-rcVoJsWuuLcwMTxti5SLs/view?usp=drive_link)
+
 -->
 
