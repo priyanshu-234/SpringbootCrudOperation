@@ -87,6 +87,6 @@ A short video demo will be available soon showing how this Spring Boot CRUD appl
 
 <!--
 📺 Watch Demo:
-🔗 [Click here to watch the demo](https://your-video-link-here)
+🔗 [Click here to watch the demo](https://drive.google.com/file/d/1ECQtVeY58P-rcVoJsWuuLcwMTxti5SLs/view?usp=drive_link)
 -->
 
